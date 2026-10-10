@@ -1,0 +1,12 @@
+pandas==2.3.0
+numpy
+scikit-learn
+librosa
+soundfile
+openai-whisper
+spacy
+sentence-transformers
+tqdm
+jupyter
+catboost
+xgboost

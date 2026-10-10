@@ -1,0 +1,25 @@
+# Competition Data
+Dataset_Final/
+train.csv
+test.csv
+sample_submission.csv
+train/
+test/
+
+# Cache and temporary files
+cache/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large model artifacts
+*.bin
+*.pt
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
